@@ -123,25 +123,5 @@ div {
   pointer-events: none;
 }
 
-@media screen and (max-width:600px){
-  .score {
-    width:90%;
-    justify-content: center;
-    align-items: center;}
-  
-  .question {
-    width:90%;
-    justify-content: center;
-  align-items: center;}
- .answer {
-   width:90%; 
- } 
- .answers {
-  justify-content: center;
-  align-items: center;
- }
-
-}
-
 
 
